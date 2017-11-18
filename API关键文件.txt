@@ -1,0 +1,50 @@
+AppID
+10349146
+
+API Key
+jvYWuvHhPGtr9EBvHEqECvEz
+
+Secret Key
+KwTtRx0t4m9RhO4UIOZuhmBm7jhwu0Hy
+
+access_token（有效时间为30天，get时间2017.11.10）
+24.c5129cb4825eb154f47d6d102f9e8def.2592000.1512918124.282335-10349146
+
+expires_in
+2592000
+
+requestURL：
+1.相同图检索-入库：
+https://aip.baidubce.com/rest/2.0/realtime_search/same_hq/add
+
+2.相同图检索—检索:
+https://aip.baidubce.com/rest/2.0/realtime_search/same_hq/search
+
+3.相同图检索—删除:
+https://aip.baidubce.com/rest/2.0/realtime_search/same_hq/delete
+
+params
+image=图片的base64编码&top_num=5
+
+session_key
+9mzdWEUutv4ELDzgTLDuTpEEz4IqispSSGGxiCJnJPq1PNEIIfdDteCG31K3n\/bY2WSzMN63ASitfEUNYH8wYzn2svUeGw==
+
+scope
+public brain_all_scope vis-classify_\u5b9e\u65f6\u68c0\u7d22-\u76f8\u4f3c brain_object_detect brain_realtime_logo brain_realtime_same_hq brain_realtime_similar wise_adapt lebo_resource_base lightservice_public hetu_basic lightcms_map_poi kaidian_kaidian ApsMisTest_Test\u6743\u9650 vis-classify_flower bnstest_fasf
+
+refresh_token
+25.b8aec8fcbffd818756a33274309a2fa1.315360000.1825686124.282335-10349146
+
+session_secret
+132acd5041c8dd0818a98fb52a057500
+
+Transfer-Encoding--->[chunked]
+null--->[HTTP/1.1 200 OK]
+Server--->[Apache]
+Cache-Control--->[no-store]
+Connection--->[keep-alive]
+Vary--->[Accept-Encoding]
+Set-Cookie--->[BAIDUID=484F6C3C2404AF46DD276C33A7DA77E5:FG=1; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2145916555; path=/; domain=.baidu.com; version=1]
+P3p--->[CP=" OTI DSP COR IVA OUR IND COM "]
+Date--->[Fri, 10 Nov 2017 15:02:04 GMT]
+Content-Type--->[application/json]
