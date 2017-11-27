@@ -23,6 +23,9 @@ https://aip.baidubce.com/rest/2.0/realtime_search/same_hq/search
 3.ÏàÍ¬Í¼¼ìË÷¡ªÉ¾³ı:
 https://aip.baidubce.com/rest/2.0/realtime_search/same_hq/delete
 
+4.ÏàËÆÍ¼¼ìË÷-Èë¿â£º
+https://aip.baidubce.com/rest/2.0/image-classify/v1/realtime_search/similar/add
+
 params
 image=Í¼Æ¬µÄbase64±àÂë&top_num=5
 
