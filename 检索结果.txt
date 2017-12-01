@@ -1,0 +1,13 @@
+log_id
+result_num
+result = result_num{source_id + score + brief + origin_score + cont_sign}result_num
+
+¼ìË÷½á¹û = log_id + result_num + result
+
+log_id = 205415165306430771
+
+result_num = 2
+
+1.source_id = bs25, score = 0.99659805429708, brief = , origin_score = 284, cont_sign = 4197004845, 591330317
+
+2.source_id = bs25, score = 0.54566596241261, brief = , origin_score 9.1587152481079, cont_sign = 2278694245, 2781794376
