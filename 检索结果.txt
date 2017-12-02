@@ -11,3 +11,17 @@ result_num = 2
 1.source_id = bs25, score = 0.99659805429708, brief = , origin_score = 284, cont_sign = 4197004845, 591330317
 
 2.source_id = bs25, score = 0.54566596241261, brief = , origin_score 9.1587152481079, cont_sign = 2278694245, 2781794376
+
+图片过大：
+null--->[HTTP/1.1 200 OK]
+Server--->[Apache]
+Appid--->[10349146]
+入库返回的数据:{"log_id": 443266930300621391, "error_code": 216202, "error_msg": "image size error"}
+Connection--->[keep-alive]
+Vary--->[Accept-Encoding]
+Set-Cookie--->[BAIDUID=B54E04997ED19BBADCA7AF1701A2020D:FG=1; expires=Thu, 31-Dec-37 23:55:55 GMT; max-age=2145916555; path=/; domain=.baidu.com; version=1]
+Content-Length--->[85]
+P3p--->[CP=" OTI DSP COR IVA OUR IND COM "]
+Date--->[Fri, 01 Dec 2017 15:57:05 GMT]
+Content-Type--->[application/json]
+result:{"log_id": 443266930300621391, "error_code": 216202, "error_msg": "image size error"}
